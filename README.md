@@ -8,4 +8,4 @@
 - Chosoe where you want to go.
 
 ## License
-See [LICENSE](LICENSE.md)
+See [LICENSE](LICENSE)
