@@ -6,3 +6,6 @@
 
 - Choose a weapon that you would like to use.
 - Chosoe where you want to go.
+
+## License
+See [LICENSE](LICENSE.md)
