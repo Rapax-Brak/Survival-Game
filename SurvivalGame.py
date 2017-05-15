@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-import random, sys
+import random
 
 # Content won't change so tuples are used to make sure it doesn't
 weapon_list = ("sword","knife","gun","stick")
